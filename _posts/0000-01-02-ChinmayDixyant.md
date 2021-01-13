@@ -3,4 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+"Blessed are the forgetful,for they get better even of their blunders"
+Friedrich Neitschze
